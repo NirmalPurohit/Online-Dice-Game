@@ -1,7 +1,4 @@
 /***********************************************************************************************
-*	Author: Oluwajoba Hassan							       *
-*       ID: <Your Student ID>								       *
-*	Group member: Nirmal Purohit							       *
 *	Date: April 8, 2019								       *
 *	Description: The code act as a client and checks its own and server's incoming score to*
 *			display the result of the game.					       *	
