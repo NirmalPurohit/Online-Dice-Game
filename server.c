@@ -1,7 +1,4 @@
 /******************************************************************************************************
-*	Author: Nirmal Purohit									      *
-*	ID: 104944091										      *
-*	Group member: Oluwajoba Hassan								      *
 *	Date: April 8, 2019									      *
 *	Description: The code below act as a server and listens on a provided port for a client. Once *
 *			the connection is accepted, the server plays a dice game with the player, and *
